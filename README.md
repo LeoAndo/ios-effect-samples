@@ -2,7 +2,7 @@
 
 # [blur API](https://developer.apple.com/documentation/swiftui/menu/blur(radius:opaque:))
 
-- [code](xxxx)
+- [code](https://github.com/LeoAndo/ios-effect-samples/tree/main/PageTabViewSample)
 - capture
 
 | iPhone 12 Pro |
